@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "361796956966",
+    "project_id": "puskesmas-c3934",
+    "storage_bucket": "puskesmas-c3934.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361796956966:android:272b8fe64045b044f247e7",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx7iRXmWWxzlXVzVEPZF-erqriYMBvwrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361796956966:android:97cb66de496f4ceef247e7",
+        "android_client_info": {
+          "package_name": "com.example.puskesmas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx7iRXmWWxzlXVzVEPZF-erqriYMBvwrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361796956966:android:f9a64bbe57412462f247e7",
+        "android_client_info": {
+          "package_name": "com.example.puskesmas_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx7iRXmWWxzlXVzVEPZF-erqriYMBvwrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
